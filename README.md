@@ -1,4 +1,4 @@
-# Employee Database: 
+# Employee Database:
 
 ## A Mystery in Two Parts
 
@@ -29,3 +29,7 @@ Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool li
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+
+### Resources
+Consult [SQLAlchemy documentation](https://docs.sqlalchemy.org/en/latest/core/engines.html#postgresql) for more information.
